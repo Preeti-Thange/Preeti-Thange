@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for internship for SDE.<br>⚡ I’m currently learning Data Structures.<br>🌱 C | C++ | Java<br>💬 Connect me on Linkedin -> https://www.linkedin.com/in/preetithange1/<br>
+🔭 Currently looking for a Full time role of Java Full Stack Developer.<br>⚡ Practicing Java Backend in SpringBoot & Frontend in Angular 14 .<br>🌱 C | C++ | Java<br>💬 Connect me on Linkedin -> https://www.linkedin.com/in/preetithange1/<br>
 
 
 ## 🌐 Socials:
